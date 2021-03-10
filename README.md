@@ -21,7 +21,7 @@ Follow the syntax as described in the Caraya wiki, but replacing the LabVIEW pat
 Optional modifiers: https://github.com/JKISoftware/Caraya/wiki/Command-Line-Interface
 
 ex:
-![image](https://user-images.githubusercontent.com/11728548/71784490-0444cc80-2fc2-11ea-9c71-c7102334979d.png)
+![image](https://user-images.githubusercontent.com/11728548/110548654-e52e5700-80fe-11eb-8414-d799c999fb06.png)
 
 
 ## Paths supported
