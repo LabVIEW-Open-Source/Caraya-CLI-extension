@@ -8,8 +8,9 @@ This package adds a wrapper method to the Caraya library, and allows calling Car
 Note that the native LabVIEW CLI method could be used in LabVIEW 2018 and up, however, to support CI servers which run with earlier versions of Caraya, a common library is being used (G-CLI).
 
 ## Dependencies
-Caraya >= 1.1.0.x  https://github.com/JKISoftware/Caraya
-G-CLI >= 2.3..x https://github.com/JamesMc86/G-CLI
+Caraya
+G-CLI
+OpenURI
 
 ## How to use
 
